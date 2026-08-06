@@ -1,1 +1,1 @@
-# Bioestat-stica
+# Bioestatistica
